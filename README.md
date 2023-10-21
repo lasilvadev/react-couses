@@ -3,10 +3,10 @@ Courses/classes updates
 
 ## React | Scrimba
 ### Build a React Info Site
-  1 - Introduction to React
-  2 - What we'll learn
-  3 - First React
-  4 - First React Practice
+  1 - Introduction to React;
+  2 - What we'll learn;
+  3 - First React;
+  4 - First React Practice;
   5 - Local setup (the quick way)
   6 - Why React? It's Composable!
   7 - Why React? It's declarative
