@@ -3,68 +3,68 @@ Courses/classes updates
 
 ## React | Scrimba
 ### Build a React Info Site
-  1 - Introduction to React;
-  2 - What we'll learn;
-  3 - First React;
-  4 - First React Practice;
-  5 - Local setup (the quick way)
-  6 - Why React? It's Composable!
-  7 - Why React? It's declarative
-  8 - JSX
-  9 - Drag and Drop Deploy with Netlify
-  10 - Get detailed reviews of your React projects - Scrimba Bootcamp
-  11 - Goodbye, CDNs!
-  12 - UPDATE: New React 18 createRoot API
-  13 - Thought experiment: use .append() instead of ReactDOM.render()?
-  14 - Project part 1 - markup
-  15 - Pop quiz!
-  16 - Custom Components
-  17 - Custom Components part 2
-  18 - Custom Components Quiz
-  19 - Styling with Classes
-  20 - Organize components
-  21 - Run React locally with Vite
-  22 - Quick mental outline of project
-  23 - Project setup
-  24 - Quick Figma Walkthrough
-  25 - Navbar & Styling
-  26 - Main Section
-  27 - Color the bullets
-  28 - Add background logo
-  29 - Why are Solo Projects important?
-  30 - Solo Project (PRO) - Digital Business Card
-  31 - Deploy your React App with Netlify
-  32 - Get a code review!
-  33 - React Section 1 Recap
+1 - Introduction to React;
+2 - What we'll learn;
+3 - First React;
+4 - First React Practice;
+5 - Local setup (the quick way);
+6 - Why React? It's Composable!;
+7 - Why React? It's declarative;
+8 - JSX;
+9 - Drag and Drop Deploy with Netlify;
+10 - Get detailed reviews of your React projects - Scrimba Bootcamp;
+11 - Goodbye, CDNs!;
+12 - UPDATE: New React 18 createRoot API;
+13 - Thought experiment: use .append() instead of ReactDOM.render()?;
+14 - Project part 1 - markup;
+15 - Pop quiz!;
+16 - Custom Components;
+17 - Custom Components part 2;
+18 - Custom Components Quiz;
+19 - Styling with Classes;
+20 - Organize components;
+21 - Run React locally with Vite;
+22 - Quick mental outline of project;
+23 - Project setup;
+24 - Quick Figma Walkthrough;
+25 - Navbar & Styling;
+26 - Main Section;
+27 - Color the bullets;
+28 - Add background logo;
+29 - Why are Solo Projects important?;
+30 - Solo Project (PRO) - Digital Business Card;
+31 - Deploy your React App with Netlify;
+32 - Get a code review!;
+33 - React Section 1 Recap;
 
 ### Build an AirBnb Experiences clone
-  34 - Section intro & Figma file
-  35 - Project setup: Navbar
-  36 - Project setup: Hero
-  37 - Project: Card Component
-  38 - Problem - not reusable
-  39 - Props Part 1: Understanding the Concept
-  40 - Props Part 2: Reusable Components
-  41 - Aside: JS inside JSX
-  42 - Props part 3: Create a contact component
-  43 - Props part 4: receiving props in a component
-  44 - Prop quiz! (Get it?? 😆)
-  45 - Destructuring props
-  46 - Props practice
-  47 - Passing in non-string props
-  48 - Project: pass props to card component
-  49 - Review - array .map()
-  50 - React renders arrays
-  51 - Mapping components
-  52 - Map quiz!
-  53 - Loading images from .map()
-  54 - Project: Map experiences data into components
-  55 - Project: key prop
-  56 - Project Sold Out Bradge
-  57 - Project: Pass object as props
-  58 - Project: Spread object as props
-  59 - Solo Project (PRO) - Travel Journal
-  60 - React Section 2 Recap
+34 - Section intro & Figma file
+35 - Project setup: Navbar
+36 - Project setup: Hero
+37 - Project: Card Component
+38 - Problem - not reusable
+39 - Props Part 1: Understanding the Concept
+40 - Props Part 2: Reusable Components
+41 - Aside: JS inside JSX
+42 - Props part 3: Create a contact component
+43 - Props part 4: receiving props in a component
+44 - Prop quiz! (Get it?? 😆)
+45 - Destructuring props
+46 - Props practice
+47 - Passing in non-string props
+48 - Project: pass props to card component
+49 - Review - array .map()
+50 - React renders arrays
+51 - Mapping components
+52 - Map quiz!
+53 - Loading images from .map()
+54 - Project: Map experiences data into components
+55 - Project: key prop
+56 - Project Sold Out Bradge
+57 - Project: Pass object as props
+58 - Project: Spread object as props
+59 - Solo Project (PRO) - Travel Journal
+60 - React Section 2 Recap
 
 ### Build a Meme Generator
   61 - Section Intro & Figma File
